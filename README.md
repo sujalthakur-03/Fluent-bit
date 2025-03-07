@@ -1,8 +1,6 @@
 # Fluent-bit
 Fluent Bit is an open-source and high-performance log processor and forwarder designed for collecting, filtering, and forwarding logs and metrics from various sources to multiple destinations. It is widely used in cloud-native environments, containerized applications, and log management pipelines.
 
-# Fluent-bit
-Fluent Bit is a high-performance, lightweight log, metrics, and traces processor and forwarder designed for various operating systems, including Linux, Windows, MacOS, and BSD
 
 ## Step-1: Add Server GPG Key 
 - The fist step is to add the server GPG key to your keyring to ensure you can get the correct signed packages.
